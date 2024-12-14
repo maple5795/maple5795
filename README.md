@@ -46,7 +46,9 @@ Bachelor Degree of Statistics ```(03/2017 ~ 02/2025, Expected)``` (University of
 
 ## LEARNING EXPERIENCES
 -- BITamin 13th(2024.01 ~ 2025.02, Expected)
+
   빅데이터 분석 연합 동아리
+  
   머신러닝, 딥러닝 스터디 및 프로젝트 진행
 
 
