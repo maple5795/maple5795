@@ -8,7 +8,7 @@
 <!-- My CV/resume -->
 
 <div align="left">
-Hi! 🤗 My name is Youngwoo Seo, and I’m currently searching for a data analyst.  
+Hi! 🤗 My name is Youngwoo Seo, and I’m currently searching for a data analyst/data scientist position.  
 I am particularly interested in researching data using time-series and recommendation system based on bayesian method.
 Feel free to reach out for a coffee chat! ☕☕
 </div>
@@ -29,6 +29,21 @@ Data Analyst, Data Scientist
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
+
+<span>
+    <img src="https://img.shields.io/badge/ R-informational?style=plastic&logo=R&logoColor=yellow"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/ SAS-informational?style=plastic&logo=R&logoColor=blue"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/ SPSS-informational?style=plastic&logo=R&logoColor=green"/>
+</span>
+
+## LEARNING EXPERIENCES
+<span>
 
 </div>
 </div>
