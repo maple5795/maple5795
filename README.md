@@ -48,10 +48,24 @@ Bachelor Degree of Statistics ```(03/2017 ~ 02/2025, Expected)``` (University of
 - BITamin 13th(2024.01 ~ 2025.02, Expected)
 
   빅데이터 분석 연합 동아리
-  
+
   머신러닝, 딥러닝 스터디 및 프로젝트 진행
 
+  - Project - Recommendation System (2024.07 ~ 2024.08)
 
+    영화 데이터를 활용한 도서 마니아 기반 추천시스템
+
+    a book recommendation system using Graph Neural Network (GNN) based on movie data
+
+    - 도서관 정보나루 api 데이터(인기대출도서,도서별 이용 분석, 마니아를 위한 추천도서)
+   
+    - 2000 여권의'알라딘' 도서 평점 데이터
+
+    - '네이버 영화' 영화 제목, 평점, 줄거리을 포함한 데이터
+
+
+  - Project - Regression Analysis (2024.03 ~ 2024.06)
+    
 </div>
 </div>
 
