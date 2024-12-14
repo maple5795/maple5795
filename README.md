@@ -9,7 +9,9 @@
 
 <div align="left">
 Hi! 🤗 My name is Youngwoo Seo, and I’m currently searching for a data analyst/data scientist position.  
+    
 I am particularly interested in researching data using time-series and recommendation system based on bayesian method.
+
 Feel free to reach out for a coffee chat! ☕☕
 </div>
 <br><br>
@@ -23,7 +25,7 @@ Feel free to reach out for a coffee chat! ☕☕
 Data Analyst, Data Scientist  
 
 ## EDUCATION
-(Expected) Bachelor Degree of Statistics ```(03/2017 ~ 02/2025)``` (University of Seoul, Seoul)     
+Bachelor Degree of Statistics ```(03/2017 ~ 02/2025, Expected)``` (University of Seoul, Seoul)     
 
 ## ADDITIONAL SKILLS
 <span>
@@ -43,7 +45,10 @@ Data Analyst, Data Scientist
 </span>
 
 ## LEARNING EXPERIENCES
-<span>
+-- BITamin 13th(2024.01 ~ 2025.02, Expected)
+  빅데이터 분석 연합 동아리
+  머신러닝, 딥러닝 스터디 및 프로젝트 진행
+
 
 </div>
 </div>
