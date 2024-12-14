@@ -45,7 +45,7 @@ Bachelor Degree of Statistics ```(03/2017 ~ 02/2025, Expected)``` (University of
 </span>
 
 ## LEARNING EXPERIENCES
--- BITamin 13th(2024.01 ~ 2025.02, Expected)
+- BITamin 13th(2024.01 ~ 2025.02, Expected)
 
   빅데이터 분석 연합 동아리
   
