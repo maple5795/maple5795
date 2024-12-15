@@ -9,8 +9,10 @@
 
 <div align="left">
 Hi! 🤗 My name is Youngwoo Seo, and I’m currently searching for a data analyst/data scientist position.  
+
     
 I am particularly interested in researching data using time-series and recommendation system based on bayesian method.
+
 
 Feel free to reach out for a coffee chat! ☕☕
 </div>
