@@ -53,7 +53,12 @@ Bachelor Degree of Statistics ```(03/2017 ~ 08/2025)```
 
   머신러닝, 딥러닝 스터디 및 프로젝트 진행
 
-  - Project - Natural Language Processing, Time Series (2025.07 ~ 2025.08)
+  - # Project - Anomaly Detection (2026.01 ~ Present)
+ 
+    E-Commerce Cache Pollution bot 탐지
+
+
+  - # Project - Natural Language Processing, Time Series (2025.07 ~ 2025.08)
 
     TimeRAG 기반 금융 Chatbot
 
@@ -71,7 +76,7 @@ Bachelor Degree of Statistics ```(03/2017 ~ 08/2025)```
 
   머신러닝, 딥러닝 스터디 및 프로젝트 진행
 
-  - Project - Large Language Model (2025.01 ~ 2025.02)
+  - # Project - Large Language Model (2025.01 ~ 2025.02)
  
     조선왕조실록 데이터 기반 한국사 전달 챗봇
 
@@ -82,7 +87,7 @@ Bachelor Degree of Statistics ```(03/2017 ~ 08/2025)```
     Word Embedding, Retrieval-Augmented Generation(RAG),Gradio & TTS
 
 
-  - Project - Recommendation System (2024.07 ~ 2024.08)
+  - # Project - Recommendation System (2024.07 ~ 2024.08)
 
     영화 데이터를 활용한 도서 마니아 기반 추천시스템
 
@@ -95,7 +100,7 @@ Bachelor Degree of Statistics ```(03/2017 ~ 08/2025)```
     - '네이버 영화' 영화 제목, 평점, 줄거리를 포함한 데이터
 
 
-  - Project - Regression Analysis (2024.03 ~ 2024.06)
+  - # Project - Regression Analysis (2024.03 ~ 2024.06)
 
     강화학습을 이용한 시스템 트레이딩 수익 극대화
 
@@ -109,14 +114,14 @@ Bachelor Degree of Statistics ```(03/2017 ~ 08/2025)```
 
   SK 현업 프로젝트 기반 실습
 
-  - Project - CCTV 이미지 분류 모델 개발
+  - # Project - CCTV 이미지 분류 모델 개발
     
     합성곱 신경망을 이용한 이미지 유사도 진단
 
     Diagnosing image similarity using convolutional neural networks
     
  
-  - Project - 청각장애인을 위한 소리 분류 모델 개발
+  - # Project - 청각장애인을 위한 소리 분류 모델 개발
  
     Opensmile 패키지를 활용한 Transformer 기반 오디오 데이터 분류
 
