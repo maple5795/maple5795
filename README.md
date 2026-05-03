@@ -47,11 +47,40 @@ Bachelor Degree of Statistics ```(03/2017 ~ 08/2025)```
 </span>
 
 ## LEARNING EXPERIENCES
-- BITamin 13th(2024.01 ~ 2025.02, Expected)
+- BOAZ 25th(2025.08 ~  2026.07, expected)
+
+  빅데이터 분석 연랍 동아리
+
+  머신러닝, 딥러닝 스터디 및 프로젝트 진행
+
+  - Project - Natural Language Processing, Time Series (2025.07 ~ 2025.08)
+
+    TimeRAG 기반 금융 Chatbot
+
+    Chatbot using TimeRAG method based on Stock Market Data
+
+    - 2023 ~ 2024년 duckduckgo  finance 뉴스 데이터
+   
+    - NASDAQ 기업 종가 데이터 from Yahoo Finance
+
+    
+
+- BITamin 13th(2024.01 ~ 2025.02)
 
   빅데이터 분석 연합 동아리
 
   머신러닝, 딥러닝 스터디 및 프로젝트 진행
+
+  - Project - Large Language Model (2025.01 ~ 2025.02)
+ 
+    조선왕조실록 데이터 기반 한국사 전달 챗봇
+
+    Annals of the Joseon Dynasty Korean History Delivery Chatbot
+
+    7차 교육과정 한국사 교과서 OCR
+
+    Word Embedding, Retrieval-Augmented Generation(RAG),Gradio & TTS
+
 
   - Project - Recommendation System (2024.07 ~ 2024.08)
 
