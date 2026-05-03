@@ -27,7 +27,7 @@ Feel free to reach out for a coffee chat! ☕☕
 Data Analyst, Data Scientist  
 
 ## EDUCATION
-Bachelor Degree of Statistics ```(03/2017 ~ 02/2025, Expected)``` (University of Seoul, Seoul)     
+Bachelor Degree of Statistics ```(03/2017 ~ 08/2025)```  
 
 ## ADDITIONAL SKILLS
 <span>
